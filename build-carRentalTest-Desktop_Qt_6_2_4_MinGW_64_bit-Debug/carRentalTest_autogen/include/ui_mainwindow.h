@@ -12,6 +12,7 @@
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QFormLayout>
+#include <QtWidgets/QLabel>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QPushButton>
@@ -30,6 +31,7 @@ public:
     QPushButton *pushButton;
     QPushButton *pushButton_2;
     QPushButton *pushButton_3;
+    QLabel *label;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -59,13 +61,19 @@ public:
 
         formLayout->setWidget(2, QFormLayout::SpanningRole, pushButton_3);
 
+        label = new QLabel(centralwidget);
+        label->setObjectName(QString::fromUtf8("label"));
+        label->setAlignment(Qt::AlignCenter);
+
+        formLayout->setWidget(3, QFormLayout::FieldRole, label);
+
 
         verticalLayout->addLayout(formLayout);
 
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));
-        menubar->setGeometry(QRect(0, 0, 800, 17));
+        menubar->setGeometry(QRect(0, 0, 800, 24));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName(QString::fromUtf8("statusbar"));
@@ -82,6 +90,7 @@ public:
         pushButton->setText(QCoreApplication::translate("MainWindow", "Orders", nullptr));
         pushButton_2->setText(QCoreApplication::translate("MainWindow", "Customers", nullptr));
         pushButton_3->setText(QCoreApplication::translate("MainWindow", "Cars", nullptr));
+        label->setText(QCoreApplication::translate("MainWindow", "Test", nullptr));
     } // retranslateUi
 
 };
