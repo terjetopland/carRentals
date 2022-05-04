@@ -9,11 +9,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-<<<<<<< HEAD
-        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
-=======
-        "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
->>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-msyGFN\\clang-uiheader-AfjVzT",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -34,11 +30,11 @@
         "-D_UNICODE",
         "-D_WIN64",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
         "-I",
         "C:\\Qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
@@ -70,10 +66,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest\\main.cpp"
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest\\main.cpp"
     ],
-    "directory": "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/main.cpp"
+    "directory": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/main.cpp"
 },
 {
     "arguments": [
@@ -85,11 +81,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-<<<<<<< HEAD
-        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
-=======
-        "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
->>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-msyGFN\\clang-uiheader-AfjVzT",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -110,11 +102,11 @@
         "-D_UNICODE",
         "-D_WIN64",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
         "-I",
         "C:\\Qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
@@ -146,10 +138,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest\\mainwindow.cpp"
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest\\mainwindow.cpp"
     ],
-    "directory": "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.cpp"
+    "directory": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/mainwindow.cpp"
 },
 {
     "arguments": [
@@ -161,11 +153,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-<<<<<<< HEAD
-        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
-=======
-        "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
->>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-msyGFN\\clang-uiheader-AfjVzT",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -186,11 +174,11 @@
         "-D_UNICODE",
         "-D_WIN64",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
         "-I",
         "C:\\Qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
@@ -222,9 +210,9 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest\\mainwindow.h"
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest\\mainwindow.h"
     ],
-    "directory": "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.h"
+    "directory": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/mainwindow.h"
 }
 ]
