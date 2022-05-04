@@ -1,5 +1,5 @@
-C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.h \
-  C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/moc_predefs.h \
+C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/mainwindow.h \
+  C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/moc_predefs.h \
   C:/Qt/6.2.4/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.2.4/mingw_64/include/QtCore/qanystringview.h \
   C:/Qt/6.2.4/mingw_64/include/QtCore/qarraydata.h \

@@ -32,6 +32,7 @@ public:
     QPushButton *pushButton_2;
     QPushButton *pushButton_3;
     QLabel *label;
+    QPushButton *pushButton_4;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -67,13 +68,18 @@ public:
 
         formLayout->setWidget(3, QFormLayout::FieldRole, label);
 
+        pushButton_4 = new QPushButton(centralwidget);
+        pushButton_4->setObjectName(QString::fromUtf8("pushButton_4"));
+
+        formLayout->setWidget(3, QFormLayout::LabelRole, pushButton_4);
+
 
         verticalLayout->addLayout(formLayout);
 
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));
-        menubar->setGeometry(QRect(0, 0, 800, 24));
+        menubar->setGeometry(QRect(0, 0, 800, 22));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName(QString::fromUtf8("statusbar"));
@@ -90,7 +96,8 @@ public:
         pushButton->setText(QCoreApplication::translate("MainWindow", "Orders", nullptr));
         pushButton_2->setText(QCoreApplication::translate("MainWindow", "Customers", nullptr));
         pushButton_3->setText(QCoreApplication::translate("MainWindow", "Cars", nullptr));
-        label->setText(QCoreApplication::translate("MainWindow", "Test", nullptr));
+        label->setText(QCoreApplication::translate("MainWindow", "Test3", nullptr));
+        pushButton_4->setText(QCoreApplication::translate("MainWindow", "test", nullptr));
     } // retranslateUi
 
 };
