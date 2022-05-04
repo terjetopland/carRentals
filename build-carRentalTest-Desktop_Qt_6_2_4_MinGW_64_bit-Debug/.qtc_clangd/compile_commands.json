@@ -9,7 +9,11 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
+<<<<<<< HEAD
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
+=======
         "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
+>>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -81,7 +85,11 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
+<<<<<<< HEAD
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
+=======
         "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
+>>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -153,7 +161,11 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
+<<<<<<< HEAD
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
+=======
         "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
+>>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
         "-nostdinc",
         "-nostdinc++",
         "-g",
