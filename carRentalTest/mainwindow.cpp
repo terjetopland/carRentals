@@ -13,3 +13,17 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+
+
+void MainWindow::on_pushButton_clicked()
+{
+    dOrders = new DialogOrders(this);
+    dOrders->show();
+}
+
+void MainWindow::on_pushButton_4_clicked()
+{
+    lAll = new ListAll(this);
+    lAll->show();
+}
+
