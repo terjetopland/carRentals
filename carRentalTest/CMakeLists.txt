@@ -19,9 +19,12 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
-        popuporders.h
-        popuporders.cpp
-        popuporders.ui
+        dialogorders.h
+        dialogorders.cpp
+        dialogorders.ui
+        listall.h
+        listall.cpp
+        listall.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
