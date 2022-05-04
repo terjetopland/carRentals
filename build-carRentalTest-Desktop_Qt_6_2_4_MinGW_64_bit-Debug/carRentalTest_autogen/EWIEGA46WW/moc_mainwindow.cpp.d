@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/mainwindow.h \
+  C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/moc_predefs.h \
+=======
 C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.h \
   C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/moc_predefs.h \
+>>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
   C:/Qt/6.2.4/mingw_64/include/QtCore/QDeadlineTimer \
   C:/Qt/6.2.4/mingw_64/include/QtCore/QEvent \
   C:/Qt/6.2.4/mingw_64/include/QtCore/QList \
@@ -347,7 +352,10 @@ C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_M
   C:/Qt/6.2.4/mingw_64/include/QtWidgets/QLayout \
   C:/Qt/6.2.4/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.2.4/mingw_64/include/QtWidgets/QScrollerProperties \
+<<<<<<< HEAD
+=======
   C:/Qt/6.2.4/mingw_64/include/QtWidgets/QWidget \
+>>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
   C:/Qt/6.2.4/mingw_64/include/QtWidgets/QtWidgets \
   C:/Qt/6.2.4/mingw_64/include/QtWidgets/QtWidgetsDepends \
   C:/Qt/6.2.4/mingw_64/include/QtWidgets/qabstractbutton.h \
@@ -923,6 +931,10 @@ C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_M
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wnnc.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wow64apiset.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wtypes.h \
+<<<<<<< HEAD
+  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wtypesbase.h
+=======
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wtypesbase.h \
   C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.h \
   C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/popuporders.h
+>>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936

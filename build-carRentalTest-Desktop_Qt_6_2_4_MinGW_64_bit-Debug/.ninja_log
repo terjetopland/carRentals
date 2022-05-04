@@ -1,4 +1,21 @@
 # ninja log v5
+<<<<<<< HEAD
+13	833	6733643347373438	carRentalTest_autogen/timestamp	84bcc5b5f48da696
+833	4285	6733643383199521	CMakeFiles/carRentalTest.dir/mainwindow.cpp.obj	4681d2fe36410706
+13	833	6733643347373438	carRentalTest_autogen/mocs_compilation.cpp	84bcc5b5f48da696
+836	4191	6733643382269588	CMakeFiles/carRentalTest.dir/main.cpp.obj	647109c21da8ac4c
+838	3924	6733643379599565	CMakeFiles/carRentalTest.dir/carRentalTest_autogen/mocs_compilation.cpp.obj	aa6a898b3e21b8a8
+4285	4620	6733643386499515	carRentalTest.exe	be40eed8186e06d
+4	557	6733726640675050	build.ninja	f7dfea4ba6748b18
+6	2491	6733726779260334	carRentalTest_autogen/timestamp	84bcc5b5f48da696
+6	2491	6733726779260334	carRentalTest_autogen/mocs_compilation.cpp	84bcc5b5f48da696
+6	2491	6733726779260334	C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/timestamp	84bcc5b5f48da696
+6	2491	6733726779260334	C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/mocs_compilation.cpp	84bcc5b5f48da696
+2504	11557	6733726872502549	CMakeFiles/carRentalTest.dir/main.cpp.obj	647109c21da8ac4c
+2499	11576	6733726872703031	CMakeFiles/carRentalTest.dir/carRentalTest_autogen/mocs_compilation.cpp.obj	aa6a898b3e21b8a8
+2509	11588	6733726872812555	CMakeFiles/carRentalTest.dir/mainwindow.cpp.obj	4681d2fe36410706
+11589	12175	6733726878639934	carRentalTest.exe	be40eed8186e06d
+=======
 11	4524	6733694780679609	carRentalTest_autogen/timestamp	b3dd4cd863ae81d5
 11	4524	6733694780679609	carRentalTest_autogen/mocs_compilation.cpp	b3dd4cd863ae81d5
 4534	18454	6733694924629588	CMakeFiles/carRentalTest.dir/mainwindow.cpp.obj	e94e62c2df0bdbb6
@@ -23,3 +40,4 @@
 13605	41439	6733717385663148	CMakeFiles/carRentalTest.dir/carRentalTest_autogen/mocs_compilation.cpp.obj	ef9ac54fccfd727e
 13612	41498	6733717386583205	CMakeFiles/carRentalTest.dir/mainwindow.cpp.obj	e94e62c2df0bdbb6
 13601	41763	6733717389123178	CMakeFiles/carRentalTest.dir/main.cpp.obj	266163e35d3c733e
+>>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
