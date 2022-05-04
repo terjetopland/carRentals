@@ -48,6 +48,13 @@
         </property>
        </widget>
       </item>
+      <item row="3" column="0">
+       <widget class="QPushButton" name="pushButton_4">
+        <property name="text">
+         <string>test</string>
+        </property>
+       </widget>
+      </item>
      </layout>
     </item>
    </layout>
@@ -58,7 +65,7 @@
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>24</height>
+     <height>22</height>
     </rect>
    </property>
   </widget>
