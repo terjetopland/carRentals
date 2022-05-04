@@ -2,7 +2,7 @@
 
 #include <QApplication>
 
-//Kommentar for å teste git
+
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
