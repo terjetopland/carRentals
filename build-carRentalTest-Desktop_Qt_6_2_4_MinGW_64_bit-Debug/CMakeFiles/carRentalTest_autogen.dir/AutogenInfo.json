@@ -8,7 +8,6 @@
 	[
 		"C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/CMakeLists.txt",
 		"C:/Qt/Tools/QtCreator/share/qtcreator/package-manager/auto-setup.cmake",
-<<<<<<< HEAD
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeSystem.cmake.in",
 		"C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeSystem.cmake",
@@ -61,11 +60,6 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCXXCompiler.cmake.in",
 		"C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake",
-=======
-		"C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeSystem.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake",
-		"C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake",
->>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeGenericSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake",
@@ -78,7 +72,6 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake",
-<<<<<<< HEAD
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeDetermineRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeRCCompiler.cmake.in",
 		"C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake",
@@ -98,13 +91,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Internal/FeatureTesting.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCXXCompiler.cmake.in",
 		"C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake",
-=======
-		"C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeRCInformation.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows-windres.cmake",
->>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake",
 		"C:/Qt/6.2.4/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"C:/Qt/6.2.4/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"C:/Qt/6.2.4/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
@@ -133,6 +120,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckLibraryExists.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckIncludeFileCXX.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckCXXSourceCompiles.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckIncludeFile.cxx.in",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/FindPackageMessage.cmake",
 		"C:/Qt/6.2.4/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
@@ -333,21 +321,7 @@
 	"CMAKE_SOURCE_DIR" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest",
 	"DEP_FILE" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "carRentalTest_autogen/timestamp",
-	"HEADERS" : 
-	[
-		[
-			"C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/mainwindow.h",
-			"MU",
-			"EWIEGA46WW/moc_mainwindow.cpp",
-			null
-		],
-		[
-			"C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/popuporders.h",
-			"MU",
-			"EWIEGA46WW/moc_popuporders.cpp",
-			null
-		]
-	],
+	"HEADERS" : [],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/include",
 	"MOC_COMPILATION_FILE" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/mocs_compilation.cpp",
@@ -410,24 +384,7 @@
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 2,
 	"SETTINGS_FILE" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/carRentalTest_autogen.dir/AutogenUsed.txt",
-	"SOURCES" : 
-	[
-		[
-			"C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/main.cpp",
-			"MU",
-			null
-		],
-		[
-			"C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/mainwindow.cpp",
-			"MU",
-			null
-		],
-		[
-			"C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/popuporders.cpp",
-			"MU",
-			null
-		]
-	],
+	"SOURCES" : [],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : [],
