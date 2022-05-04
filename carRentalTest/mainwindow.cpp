@@ -15,11 +15,4 @@ MainWindow::~MainWindow()
 }
 
 
-void MainWindow::on_pushButton_3_clicked()
-{
-
-   pOrders = new popUpOrders(this);
-   pOrders->show();
-
-}
 

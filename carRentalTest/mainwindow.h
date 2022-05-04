@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include <QtWidgets>
-#include "popuporders.h"
+
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -22,6 +22,6 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-    popUpOrders *pOrders;
+    
 };
 #endif // MAINWINDOW_H
