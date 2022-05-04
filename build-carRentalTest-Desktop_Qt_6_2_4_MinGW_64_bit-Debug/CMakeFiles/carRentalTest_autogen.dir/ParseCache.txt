@@ -951,6 +951,6 @@ C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogorders.cpp
  uic:ui_dialogorders.h
 C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/listall.cpp
  uic:ui_listall.h
+C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/main.cpp
 C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.cpp
  uic:./ui_mainwindow.h
-C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/main.cpp
