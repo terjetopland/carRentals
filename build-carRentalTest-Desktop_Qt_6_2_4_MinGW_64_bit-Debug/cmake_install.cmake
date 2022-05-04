@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/terje/source/repos/Qt/carRentals/carRentalTest
+# Install script for directory: C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

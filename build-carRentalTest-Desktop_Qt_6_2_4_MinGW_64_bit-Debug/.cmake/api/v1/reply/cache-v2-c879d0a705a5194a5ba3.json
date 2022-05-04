@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug"
+			"value" : "c:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest"
+			"value" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -5627,7 +5627,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug"
+			"value" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug"
 		},
 		{
 			"name" : "carRentalTest_IS_TOP_LEVEL",
@@ -5651,7 +5651,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest"
+			"value" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest"
 		}
 	],
 	"kind" : "cache",

@@ -129,14 +129,14 @@
 			"includes" : 
 			[
 				{
-					"path" : "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug"
+					"path" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug"
 				},
 				{
-					"path" : "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest"
+					"path" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest"
 				},
 				{
 					"backtrace" : 0,
-					"path" : "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/include"
+					"path" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/include"
 				},
 				{
 					"backtrace" : 6,
@@ -306,7 +306,7 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/mocs_compilation.cpp",
+			"path" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -334,19 +334,19 @@
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/include/ui_mainwindow.h",
+			"path" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/include/ui_mainwindow.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/timestamp",
+			"path" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/timestamp",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/timestamp.rule",
+			"path" : "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/timestamp.rule",
 			"sourceGroupIndex" : 3
 		}
 	],
