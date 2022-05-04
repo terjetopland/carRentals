@@ -1,5 +1,0 @@
-C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/carRentalTest.dir
-C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/carRentalTest_autogen_timestamp_deps.dir
-C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/carRentalTest_autogen.dir
