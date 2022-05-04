@@ -259,6 +259,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogcars.h",
+			"MU",
+			"EWIEGA46WW/moc_dialogcars.cpp",
+			null
+		],
+		[
 			"C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogorders.h",
 			"MU",
 			"EWIEGA46WW/moc_dialogorders.cpp",
@@ -341,6 +347,11 @@
 	"SETTINGS_FILE" : "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/carRentalTest_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogcars.cpp",
+			"MU",
+			null
+		],
 		[
 			"C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogorders.cpp",
 			"MU",

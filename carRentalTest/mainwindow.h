@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include "dialogorders.h"
+#include "dialogcars.h"
 #include "listall.h"
 
 
@@ -23,9 +24,12 @@ private slots:
 
     void on_pushButton_4_clicked();
 
+    void on_pushButton_2_clicked();
+
 private:
     Ui::MainWindow *ui;
     DialogOrders *dOrders;
+    DialogCars *dCars;
     ListAll *lAll;
 };
 #endif // MAINWINDOW_H
