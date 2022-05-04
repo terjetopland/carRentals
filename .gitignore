@@ -68,17 +68,17 @@ creator.user
 .idea/
 
 # CMake
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
+/CMakeLists.txt.user
+/CMakeCache.txt
+/CMakeFiles
+/CMakeScripts
+/Testing
+/Makefile
+/cmake_install.cmake
+/install_manifest.txt
+/compile_commands.json
+/CTestTestfile.cmake
+/_deps
 
 # Apple
   # General
@@ -189,7 +189,7 @@ Thumbs.db
 # *.ipr
 
 # CMake
-cmake-build-*/
+/cmake-build-*/
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
@@ -253,5 +253,5 @@ $RECYCLE.BIN/
 *.lnk
 
 
-**/build
-**build**
+/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/
+build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/
