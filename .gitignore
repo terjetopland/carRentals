@@ -64,3 +64,5 @@ creator.user
 
 *_qmlcache.qrc
 
+# JetBrains
+.idea/
