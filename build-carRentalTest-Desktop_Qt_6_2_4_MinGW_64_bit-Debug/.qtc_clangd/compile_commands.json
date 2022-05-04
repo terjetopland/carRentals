@@ -10,10 +10,161 @@
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
 <<<<<<< HEAD
-        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-msyGFN\\clang-uiheader-AfjVzT",
 =======
         "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
->>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
+>>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
+        "-nostdinc",
+        "-nostdinc++",
+        "-g",
+        "-std=gnu++17",
+        "-fsyntax-only",
+        "-m64",
+        "--target=x86_64-w64-mingw32",
+        "-DQ_CREATOR_RUN",
+        "-DMINGW_HAS_SECURE_API",
+        "-DQT_CORE_LIB",
+        "-DQT_GUI_LIB",
+        "-DQT_NEEDS_QMAIN",
+        "-DQT_WIDGETS_LIB",
+        "-DUNICODE",
+        "-DWIN32",
+        "-DWIN64",
+        "-D_ENABLE_EXTENDED_ALIGNED_STORAGE",
+        "-D_UNICODE",
+        "-D_WIN64",
+        "-I",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "-I",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest",
+        "-I",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\include\\QtCore",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\include",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\mkspecs\\win32-g++",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\include\\QtWidgets",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\include\\QtGui",
+        "-isystem",
+        "C:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++",
+        "-isystem",
+        "C:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\x86_64-w64-mingw32",
+        "-isystem",
+        "C:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\backward",
+        "-isystem",
+        "C:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.0\\include",
+        "-isystem",
+        "C:\\Qt\\Tools\\mingw1120_64\\x86_64-w64-mingw32\\include",
+        "-fmessage-length=0",
+        "-fdiagnostics-show-note-include-stack",
+        "-fretain-comments-from-system-headers",
+        "-fmacro-backtrace-limit=0",
+        "-ferror-limit=1000",
+        "-x",
+        "c++",
+        "-Wno-unknown-pragmas",
+        "-Wno-unknown-warning-option",
+        "-Wno-documentation-unknown-command",
+        "-fno-delayed-template-parsing",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest\\main.cpp"
+    ],
+    "directory": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/main.cpp"
+},
+{
+    "arguments": [
+        "clang",
+        "-I",
+        "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedMingwHeaders",
+        "-I",
+        "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
+        "-I",
+        "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
+        "-I",
+<<<<<<< HEAD
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-msyGFN\\clang-uiheader-AfjVzT",
+=======
+        "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
+>>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
+        "-nostdinc",
+        "-nostdinc++",
+        "-g",
+        "-std=gnu++17",
+        "-fsyntax-only",
+        "-m64",
+        "--target=x86_64-w64-mingw32",
+        "-DQ_CREATOR_RUN",
+        "-DMINGW_HAS_SECURE_API",
+        "-DQT_CORE_LIB",
+        "-DQT_GUI_LIB",
+        "-DQT_NEEDS_QMAIN",
+        "-DQT_WIDGETS_LIB",
+        "-DUNICODE",
+        "-DWIN32",
+        "-DWIN64",
+        "-D_ENABLE_EXTENDED_ALIGNED_STORAGE",
+        "-D_UNICODE",
+        "-D_WIN64",
+        "-I",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "-I",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest",
+        "-I",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\include\\QtCore",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\include",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\mkspecs\\win32-g++",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\include\\QtWidgets",
+        "-I",
+        "C:\\Qt\\6.2.4\\mingw_64\\include\\QtGui",
+        "-isystem",
+        "C:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++",
+        "-isystem",
+        "C:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\x86_64-w64-mingw32",
+        "-isystem",
+        "C:\\Qt\\Tools\\mingw1120_64\\lib\\gcc\\x86_64-w64-mingw32\\11.2.0\\include\\c++\\backward",
+        "-isystem",
+        "C:\\Qt\\Tools\\QtCreator\\bin\\clang\\lib\\clang\\14.0.0\\include",
+        "-isystem",
+        "C:\\Qt\\Tools\\mingw1120_64\\x86_64-w64-mingw32\\include",
+        "-fmessage-length=0",
+        "-fdiagnostics-show-note-include-stack",
+        "-fretain-comments-from-system-headers",
+        "-fmacro-backtrace-limit=0",
+        "-ferror-limit=1000",
+        "-x",
+        "c++",
+        "-Wno-unknown-pragmas",
+        "-Wno-unknown-warning-option",
+        "-Wno-documentation-unknown-command",
+        "-fno-delayed-template-parsing",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest\\mainwindow.cpp"
+    ],
+    "directory": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/mainwindow.cpp"
+},
+{
+    "arguments": [
+        "clang",
+        "-I",
+        "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedMingwHeaders",
+        "-I",
+        "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders",
+        "-I",
+        "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
+        "-I",
+<<<<<<< HEAD
+        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-msyGFN\\clang-uiheader-AfjVzT",
+=======
+        "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -70,10 +221,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest\\main.cpp"
+        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest\\popuporders.cpp"
     ],
     "directory": "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/main.cpp"
+    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/popuporders.cpp"
 },
 {
     "arguments": [
@@ -85,11 +236,8 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-<<<<<<< HEAD
-        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
-=======
         "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
->>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
+>>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -110,11 +258,11 @@
         "-D_UNICODE",
         "-D_WIN64",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest",
         "-I",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\carRentalTest_autogen\\include",
         "-I",
         "C:\\Qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
@@ -141,15 +289,19 @@
         "-fmacro-backtrace-limit=0",
         "-ferror-limit=1000",
         "-x",
-        "c++",
+        "c++-header",
         "-Wno-unknown-pragmas",
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest\\mainwindow.cpp"
+        "C:\\Users\\tobias200045\\ProsjektoppgaveIKT103\\carRentals\\carRentalTest\\mainwindow.h"
     ],
+<<<<<<< HEAD
+    "directory": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/tobias200045/ProsjektoppgaveIKT103/carRentals/carRentalTest/mainwindow.h"
+=======
     "directory": "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.cpp"
+    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.h"
 },
 {
     "arguments": [
@@ -161,11 +313,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-<<<<<<< HEAD
-        "C:\\Users\\tobias200045\\AppData\\Local\\Temp\\QtCreator-Kfkdmp\\clang-uiheader-EAWygO",
-=======
         "C:\\Users\\terje\\AppData\\Local\\Temp\\QtCreator-jJAfMi\\clang-uiheader-ZLbmUj",
->>>>>>> f3d6f50d00f34b99534642cbadc14051e97eb3b5
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -222,9 +370,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest\\mainwindow.h"
+        "C:\\Users\\terje\\source\\repos\\Qt\\carRentals\\carRentalTest\\popuporders.h"
     ],
     "directory": "C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.h"
+    "file": "C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/popuporders.h"
+>>>>>>> b1a7610cf317a34f90d950cbc93157d0ee824936
 }
 ]
