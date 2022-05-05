@@ -1,8 +1,0 @@
-# ninja log v5
-13	833	6733643347373438	carRentalTest_autogen/timestamp	84bcc5b5f48da696
-833	4285	6733643383199521	CMakeFiles/carRentalTest.dir/mainwindow.cpp.obj	4681d2fe36410706
-13	833	6733643347373438	carRentalTest_autogen/mocs_compilation.cpp	84bcc5b5f48da696
-836	4191	6733643382269588	CMakeFiles/carRentalTest.dir/main.cpp.obj	647109c21da8ac4c
-838	3924	6733643379599565	CMakeFiles/carRentalTest.dir/carRentalTest_autogen/mocs_compilation.cpp.obj	aa6a898b3e21b8a8
-4285	4620	6733643386499515	carRentalTest.exe	be40eed8186e06d
-4	557	6733665056980049	build.ninja	f7dfea4ba6748b18
