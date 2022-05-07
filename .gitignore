@@ -101,3 +101,4 @@ saves/
 #Different stuff
 *compile_commands.json
 *LastTest.log
+CMakeLists.txt.user*
