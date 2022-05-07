@@ -235,3 +235,6 @@ desktop.ini
 
 # Editors temporary files 
 *~
+
+#exe
+build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/*
