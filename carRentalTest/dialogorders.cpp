@@ -12,3 +12,8 @@ DialogOrders::~DialogOrders()
 {
     delete ui;
 }
+
+void DialogOrders::on_pushButton_2_clicked()
+{
+    DialogOrders::~DialogOrders();
+}

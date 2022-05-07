@@ -25,6 +25,9 @@ set(PROJECT_SOURCES
         listall.h
         listall.cpp
         listall.ui
+        dialogcars.cpp
+        dialogcars.h
+        dialogcars.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
