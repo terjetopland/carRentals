@@ -16,6 +16,7 @@
 *.o
 *.obj
 
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -96,3 +97,7 @@ compile_commands.json
 *.swp
 debug/
 saves/
+
+#Different stuff
+*compile_commands.json
+*LastTest.log
