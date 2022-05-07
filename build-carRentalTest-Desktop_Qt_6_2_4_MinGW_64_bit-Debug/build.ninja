@@ -89,6 +89,14 @@ build CMakeFiles/carRentalTest.dir/listall.cpp.obj: CXX_COMPILER__carRentalTest_
   OBJECT_DIR = CMakeFiles\carRentalTest.dir
   OBJECT_FILE_DIR = CMakeFiles\carRentalTest.dir
 
+build CMakeFiles/carRentalTest.dir/dialogcars.cpp.obj: CXX_COMPILER__carRentalTest_Debug C$:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogcars.cpp || cmake_object_order_depends_target_carRentalTest
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\carRentalTest.dir\dialogcars.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  INCLUDES = -IC:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug -IC:/Users/terje/source/repos/Qt/carRentals/carRentalTest -IC:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/include -isystem C:/Qt/6.2.4/mingw_64/include/QtCore -isystem C:/Qt/6.2.4/mingw_64/include -isystem C:/Qt/6.2.4/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.2.4/mingw_64/include/QtWidgets -isystem C:/Qt/6.2.4/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\carRentalTest.dir
+  OBJECT_FILE_DIR = CMakeFiles\carRentalTest.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target carRentalTest
@@ -97,7 +105,7 @@ build CMakeFiles/carRentalTest.dir/listall.cpp.obj: CXX_COMPILER__carRentalTest_
 #############################################
 # Link the executable carRentalTest.exe
 
-build carRentalTest.exe: CXX_EXECUTABLE_LINKER__carRentalTest_Debug CMakeFiles/carRentalTest.dir/carRentalTest_autogen/mocs_compilation.cpp.obj CMakeFiles/carRentalTest.dir/main.cpp.obj CMakeFiles/carRentalTest.dir/mainwindow.cpp.obj CMakeFiles/carRentalTest.dir/dialogorders.cpp.obj CMakeFiles/carRentalTest.dir/listall.cpp.obj | C$:/Qt/6.2.4/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.2.4/mingw_64/lib/libQt6Gui.a C$:/Qt/6.2.4/mingw_64/lib/libQt6Core.a C$:/Qt/6.2.4/mingw_64/lib/libQt6EntryPoint.a || carRentalTest_autogen carRentalTest_autogen_timestamp_deps
+build carRentalTest.exe: CXX_EXECUTABLE_LINKER__carRentalTest_Debug CMakeFiles/carRentalTest.dir/carRentalTest_autogen/mocs_compilation.cpp.obj CMakeFiles/carRentalTest.dir/main.cpp.obj CMakeFiles/carRentalTest.dir/mainwindow.cpp.obj CMakeFiles/carRentalTest.dir/dialogorders.cpp.obj CMakeFiles/carRentalTest.dir/listall.cpp.obj CMakeFiles/carRentalTest.dir/dialogcars.cpp.obj | C$:/Qt/6.2.4/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.2.4/mingw_64/lib/libQt6Gui.a C$:/Qt/6.2.4/mingw_64/lib/libQt6Core.a C$:/Qt/6.2.4/mingw_64/lib/libQt6EntryPoint.a || carRentalTest_autogen carRentalTest_autogen_timestamp_deps
   FLAGS = -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.2.4/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.2.4/mingw_64/lib/libQt6Gui.a  C:/Qt/6.2.4/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.2.4/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -142,7 +150,7 @@ build carRentalTest_autogen_timestamp_deps: phony CMakeFiles/carRentalTest_autog
 #############################################
 # Utility command for carRentalTest_autogen
 
-build carRentalTest_autogen: phony CMakeFiles/carRentalTest_autogen carRentalTest_autogen/include/ui_mainwindow.h carRentalTest_autogen/include/ui_dialogorders.h carRentalTest_autogen/include/ui_listall.h carRentalTest_autogen/timestamp carRentalTest_autogen/mocs_compilation.cpp carRentalTest_autogen_timestamp_deps
+build carRentalTest_autogen: phony CMakeFiles/carRentalTest_autogen carRentalTest_autogen/include/ui_mainwindow.h carRentalTest_autogen/include/ui_dialogcars.h carRentalTest_autogen/include/ui_dialogorders.h carRentalTest_autogen/include/ui_listall.h carRentalTest_autogen/timestamp carRentalTest_autogen/mocs_compilation.cpp carRentalTest_autogen_timestamp_deps
 
 
 #############################################
@@ -158,13 +166,13 @@ build carRentalTest_autogen/timestamp carRentalTest_autogen/mocs_compilation.cpp
 #############################################
 # Phony custom command for CMakeFiles\carRentalTest_autogen_timestamp_deps
 
-build CMakeFiles/carRentalTest_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/carRentalTest_autogen_timestamp_deps: phony C$:/Qt/6.2.4/mingw_64/./bin/moc.exe C$:/Qt/6.2.4/mingw_64/./bin/uic.exe C$:/Qt/6.2.4/mingw_64/bin/Qt6Core.dll C$:/Qt/6.2.4/mingw_64/bin/Qt6Widgets.dll
+build CMakeFiles/carRentalTest_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/carRentalTest_autogen_timestamp_deps: phony C$:/Qt/6.2.4/mingw_64/bin/Qt6Core.dll C$:/Qt/6.2.4/mingw_64/./bin/moc.exe C$:/Qt/6.2.4/mingw_64/./bin/uic.exe C$:/Qt/6.2.4/mingw_64/bin/Qt6Widgets.dll
 
 
 #############################################
 # Phony custom command for CMakeFiles\carRentalTest_autogen
 
-build CMakeFiles/carRentalTest_autogen carRentalTest_autogen/include/ui_mainwindow.h carRentalTest_autogen/include/ui_dialogorders.h carRentalTest_autogen/include/ui_listall.h | ${cmake_ninja_workdir}CMakeFiles/carRentalTest_autogen ${cmake_ninja_workdir}carRentalTest_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}carRentalTest_autogen/include/ui_dialogorders.h ${cmake_ninja_workdir}carRentalTest_autogen/include/ui_listall.h: phony carRentalTest_autogen/timestamp || carRentalTest_autogen_timestamp_deps
+build CMakeFiles/carRentalTest_autogen carRentalTest_autogen/include/ui_mainwindow.h carRentalTest_autogen/include/ui_dialogcars.h carRentalTest_autogen/include/ui_dialogorders.h carRentalTest_autogen/include/ui_listall.h | ${cmake_ninja_workdir}CMakeFiles/carRentalTest_autogen ${cmake_ninja_workdir}carRentalTest_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}carRentalTest_autogen/include/ui_dialogcars.h ${cmake_ninja_workdir}carRentalTest_autogen/include/ui_dialogorders.h ${cmake_ninja_workdir}carRentalTest_autogen/include/ui_listall.h: phony carRentalTest_autogen/timestamp || carRentalTest_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

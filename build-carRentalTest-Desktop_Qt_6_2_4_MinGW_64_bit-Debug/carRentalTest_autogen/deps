@@ -427,6 +427,8 @@ carRentalTest_autogen/timestamp: \
 	C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/3.21.1/CMakeSystem.cmake \
 	C:/Users/terje/source/repos/Qt/carRentals/build-carRentalTest-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/carRentalTest_autogen/moc_predefs.h \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/CMakeLists.txt \
+	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogcars.cpp \
+	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogcars.h \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogorders.cpp \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogorders.h \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/listall.cpp \
@@ -434,6 +436,7 @@ carRentalTest_autogen/timestamp: \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/main.cpp \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.cpp \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.h \
+	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogcars.ui \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/dialogorders.ui \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/listall.ui \
 	C:/Users/terje/source/repos/Qt/carRentals/carRentalTest/mainwindow.ui \

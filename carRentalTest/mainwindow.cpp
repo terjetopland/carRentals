@@ -27,3 +27,11 @@ void MainWindow::on_pushButton_4_clicked()
     lAll->show();
 }
 
+
+void MainWindow::on_pushButton_2_clicked()
+{
+   dCars = new DialogCars(this);
+
+   dCars->show();
+}
+

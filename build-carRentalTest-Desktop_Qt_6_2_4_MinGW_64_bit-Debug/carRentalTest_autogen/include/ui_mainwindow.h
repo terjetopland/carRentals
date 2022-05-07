@@ -29,20 +29,17 @@ public:
     QVBoxLayout *verticalLayout;
     QTabWidget *tabWidget;
     QWidget *tab;
-    QWidget *verticalLayoutWidget;
-    QVBoxLayout *verticalLayout_2;
+    QWidget *verticalLayoutWidget_7;
+    QVBoxLayout *verticalLayout_8;
     QPushButton *pushButton;
-    QWidget *verticalLayoutWidget_3;
-    QVBoxLayout *verticalLayout_4;
     QLineEdit *lineEdit;
     QPushButton *pushButton_4;
     QWidget *tab_2;
     QWidget *verticalLayoutWidget_4;
     QVBoxLayout *verticalLayout_5;
-    QLineEdit *lineEdit_2;
-    QWidget *verticalLayoutWidget_2;
-    QVBoxLayout *verticalLayout_3;
     QPushButton *pushButton_2;
+    QLineEdit *lineEdit_2;
+    QPushButton *pushButton_5;
     QWidget *tab_3;
     QWidget *verticalLayoutWidget_5;
     QVBoxLayout *verticalLayout_6;
@@ -66,58 +63,49 @@ public:
         tabWidget->setObjectName(QString::fromUtf8("tabWidget"));
         tab = new QWidget();
         tab->setObjectName(QString::fromUtf8("tab"));
-        verticalLayoutWidget = new QWidget(tab);
-        verticalLayoutWidget->setObjectName(QString::fromUtf8("verticalLayoutWidget"));
-        verticalLayoutWidget->setGeometry(QRect(-1, -1, 201, 41));
-        verticalLayout_2 = new QVBoxLayout(verticalLayoutWidget);
-        verticalLayout_2->setObjectName(QString::fromUtf8("verticalLayout_2"));
-        verticalLayout_2->setContentsMargins(0, 0, 0, 0);
-        pushButton = new QPushButton(verticalLayoutWidget);
+        verticalLayoutWidget_7 = new QWidget(tab);
+        verticalLayoutWidget_7->setObjectName(QString::fromUtf8("verticalLayoutWidget_7"));
+        verticalLayoutWidget_7->setGeometry(QRect(0, 0, 211, 51));
+        verticalLayout_8 = new QVBoxLayout(verticalLayoutWidget_7);
+        verticalLayout_8->setObjectName(QString::fromUtf8("verticalLayout_8"));
+        verticalLayout_8->setContentsMargins(0, 0, 0, 0);
+        pushButton = new QPushButton(verticalLayoutWidget_7);
         pushButton->setObjectName(QString::fromUtf8("pushButton"));
 
-        verticalLayout_2->addWidget(pushButton);
+        verticalLayout_8->addWidget(pushButton);
 
-        verticalLayoutWidget_3 = new QWidget(tab);
-        verticalLayoutWidget_3->setObjectName(QString::fromUtf8("verticalLayoutWidget_3"));
-        verticalLayoutWidget_3->setGeometry(QRect(0, 40, 201, 41));
-        verticalLayout_4 = new QVBoxLayout(verticalLayoutWidget_3);
-        verticalLayout_4->setObjectName(QString::fromUtf8("verticalLayout_4"));
-        verticalLayout_4->setContentsMargins(0, 0, 0, 0);
-        lineEdit = new QLineEdit(verticalLayoutWidget_3);
+        lineEdit = new QLineEdit(verticalLayoutWidget_7);
         lineEdit->setObjectName(QString::fromUtf8("lineEdit"));
         lineEdit->setClearButtonEnabled(true);
 
-        verticalLayout_4->addWidget(lineEdit);
+        verticalLayout_8->addWidget(lineEdit);
 
         pushButton_4 = new QPushButton(tab);
         pushButton_4->setObjectName(QString::fromUtf8("pushButton_4"));
-        pushButton_4->setGeometry(QRect(0, 80, 80, 18));
+        pushButton_4->setGeometry(QRect(0, 52, 71, 18));
         tabWidget->addTab(tab, QString());
         tab_2 = new QWidget();
         tab_2->setObjectName(QString::fromUtf8("tab_2"));
         verticalLayoutWidget_4 = new QWidget(tab_2);
         verticalLayoutWidget_4->setObjectName(QString::fromUtf8("verticalLayoutWidget_4"));
-        verticalLayoutWidget_4->setGeometry(QRect(0, 40, 201, 41));
+        verticalLayoutWidget_4->setGeometry(QRect(0, 0, 211, 51));
         verticalLayout_5 = new QVBoxLayout(verticalLayoutWidget_4);
         verticalLayout_5->setObjectName(QString::fromUtf8("verticalLayout_5"));
         verticalLayout_5->setContentsMargins(0, 0, 0, 0);
+        pushButton_2 = new QPushButton(verticalLayoutWidget_4);
+        pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
+
+        verticalLayout_5->addWidget(pushButton_2);
+
         lineEdit_2 = new QLineEdit(verticalLayoutWidget_4);
         lineEdit_2->setObjectName(QString::fromUtf8("lineEdit_2"));
         lineEdit_2->setClearButtonEnabled(true);
 
         verticalLayout_5->addWidget(lineEdit_2);
 
-        verticalLayoutWidget_2 = new QWidget(tab_2);
-        verticalLayoutWidget_2->setObjectName(QString::fromUtf8("verticalLayoutWidget_2"));
-        verticalLayoutWidget_2->setGeometry(QRect(-1, -1, 201, 41));
-        verticalLayout_3 = new QVBoxLayout(verticalLayoutWidget_2);
-        verticalLayout_3->setObjectName(QString::fromUtf8("verticalLayout_3"));
-        verticalLayout_3->setContentsMargins(0, 0, 0, 0);
-        pushButton_2 = new QPushButton(verticalLayoutWidget_2);
-        pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
-
-        verticalLayout_3->addWidget(pushButton_2);
-
+        pushButton_5 = new QPushButton(tab_2);
+        pushButton_5->setObjectName(QString::fromUtf8("pushButton_5"));
+        pushButton_5->setGeometry(QRect(0, 52, 71, 18));
         tabWidget->addTab(tab_2, QString());
         tab_3 = new QWidget();
         tab_3->setObjectName(QString::fromUtf8("tab_3"));
@@ -159,7 +147,7 @@ public:
 
         retranslateUi(MainWindow);
 
-        tabWidget->setCurrentIndex(0);
+        tabWidget->setCurrentIndex(1);
 
 
         QMetaObject::connectSlotsByName(MainWindow);
@@ -172,8 +160,9 @@ public:
         lineEdit->setPlaceholderText(QCoreApplication::translate("MainWindow", "Search", nullptr));
         pushButton_4->setText(QCoreApplication::translate("MainWindow", "List all ", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(tab), QCoreApplication::translate("MainWindow", "Customers", nullptr));
-        lineEdit_2->setPlaceholderText(QCoreApplication::translate("MainWindow", "Search", nullptr));
         pushButton_2->setText(QCoreApplication::translate("MainWindow", "Add cars", nullptr));
+        lineEdit_2->setPlaceholderText(QCoreApplication::translate("MainWindow", "Search", nullptr));
+        pushButton_5->setText(QCoreApplication::translate("MainWindow", "List all ", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(tab_2), QCoreApplication::translate("MainWindow", "Cars", nullptr));
         lineEdit_3->setPlaceholderText(QCoreApplication::translate("MainWindow", "Search", nullptr));
         pushButton_3->setText(QCoreApplication::translate("MainWindow", "Add customer", nullptr));
