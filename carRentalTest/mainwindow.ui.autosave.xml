@@ -6,14 +6,9 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>759</width>
-    <height>569</height>
+    <width>474</width>
+    <height>403</height>
    </rect>
-  </property>
-  <property name="font">
-   <font>
-    <family>Arial</family>
-   </font>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
@@ -23,24 +18,24 @@
     <item>
      <widget class="QTabWidget" name="tabWidget">
       <property name="currentIndex">
-       <number>0</number>
+       <number>1</number>
       </property>
-      <widget class="QWidget" name="tab_customers">
+      <widget class="QWidget" name="tab">
        <attribute name="title">
         <string>Customers</string>
        </attribute>
        <widget class="QWidget" name="verticalLayoutWidget">
         <property name="geometry">
          <rect>
-          <x>260</x>
-          <y>0</y>
+          <x>-1</x>
+          <y>-1</y>
           <width>201</width>
           <height>41</height>
          </rect>
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_2">
          <item>
-          <widget class="QPushButton" name="pushButton_addCustomer">
+          <widget class="QPushButton" name="pushButton">
            <property name="text">
             <string>Add customer</string>
            </property>
@@ -51,7 +46,7 @@
        <widget class="QWidget" name="verticalLayoutWidget_3">
         <property name="geometry">
          <rect>
-          <x>260</x>
+          <x>0</x>
           <y>40</y>
           <width>201</width>
           <height>41</height>
@@ -70,13 +65,13 @@
          </item>
         </layout>
        </widget>
-       <widget class="QPushButton" name="pushButton_listAll">
+       <widget class="QPushButton" name="pushButton_4">
         <property name="geometry">
          <rect>
-          <x>310</x>
+          <x>0</x>
           <y>80</y>
-          <width>101</width>
-          <height>31</height>
+          <width>80</width>
+          <height>18</height>
          </rect>
         </property>
         <property name="text">
@@ -86,8 +81,8 @@
        <widget class="QTableWidget" name="tableWidget">
         <property name="geometry">
          <rect>
-          <x>170</x>
-          <y>190</y>
+          <x>0</x>
+          <y>100</y>
           <width>361</width>
           <height>181</height>
          </rect>
@@ -109,7 +104,7 @@
         </row>
         <column>
          <property name="text">
-          <string>Name</string>
+          <string>Navn</string>
          </property>
         </column>
         <column>
@@ -119,19 +114,19 @@
         </column>
         <column>
          <property name="text">
-          <string>Phone</string>
+          <string>Telefon</string>
          </property>
         </column>
        </widget>
       </widget>
-      <widget class="QWidget" name="tab_cars">
+      <widget class="QWidget" name="tab_2">
        <attribute name="title">
         <string>Cars</string>
        </attribute>
        <widget class="QWidget" name="verticalLayoutWidget_4">
         <property name="geometry">
          <rect>
-          <x>260</x>
+          <x>0</x>
           <y>40</y>
           <width>201</width>
           <height>41</height>
@@ -139,7 +134,7 @@
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_5">
          <item>
-          <widget class="QLineEdit" name="lineEdit_cars_search">
+          <widget class="QLineEdit" name="lineEdit_2">
            <property name="placeholderText">
             <string>Search</string>
            </property>
@@ -153,58 +148,39 @@
        <widget class="QWidget" name="verticalLayoutWidget_2">
         <property name="geometry">
          <rect>
-          <x>260</x>
-          <y>0</y>
+          <x>-1</x>
+          <y>-1</y>
           <width>201</width>
           <height>41</height>
          </rect>
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_3">
          <item>
-          <widget class="QPushButton" name="pushButton_addCar">
+          <widget class="QPushButton" name="pushButton_2">
            <property name="text">
-            <string>Add car</string>
+            <string>Add cars</string>
            </property>
           </widget>
          </item>
         </layout>
        </widget>
-       <widget class="QLabel" name="label_test_text">
-        <property name="geometry">
-         <rect>
-          <x>200</x>
-          <y>150</y>
-          <width>321</width>
-          <height>81</height>
-         </rect>
-        </property>
-        <property name="minimumSize">
-         <size>
-          <width>0</width>
-          <height>0</height>
-         </size>
-        </property>
-        <property name="text">
-         <string>TextLabel</string>
-        </property>
-       </widget>
       </widget>
-      <widget class="QWidget" name="tab_orders">
+      <widget class="QWidget" name="tab_3">
        <attribute name="title">
-        <string>Orders</string>
+        <string>Ordesrs</string>
        </attribute>
        <widget class="QWidget" name="verticalLayoutWidget_5">
         <property name="geometry">
          <rect>
-          <x>260</x>
-          <y>40</y>
+          <x>1</x>
+          <y>41</y>
           <width>201</width>
           <height>41</height>
          </rect>
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_6">
          <item>
-          <widget class="QLineEdit" name="lineEdit_orders_search">
+          <widget class="QLineEdit" name="lineEdit_3">
            <property name="placeholderText">
             <string>Search</string>
            </property>
@@ -218,7 +194,7 @@
        <widget class="QWidget" name="verticalLayoutWidget_6">
         <property name="geometry">
          <rect>
-          <x>260</x>
+          <x>0</x>
           <y>0</y>
           <width>201</width>
           <height>41</height>
@@ -226,9 +202,9 @@
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_7">
          <item>
-          <widget class="QPushButton" name="pushButton_addOrder">
+          <widget class="QPushButton" name="pushButton_3">
            <property name="text">
-            <string>Add order</string>
+            <string>Add customer</string>
            </property>
           </widget>
          </item>
@@ -244,8 +220,8 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>759</width>
-     <height>24</height>
+     <width>474</width>
+     <height>22</height>
     </rect>
    </property>
   </widget>

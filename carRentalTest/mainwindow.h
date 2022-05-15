@@ -2,7 +2,11 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QtWidgets>
+
+#include "listall.h"
+#include "addcar.h"
+#include "addcustomer.h"
+
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -16,7 +20,18 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
-private:
-    Ui::MainWindow *ui;
+protected slots:
+    void on_pushButton_addCustomer_clicked();
+    void on_pushButton_listAll_clicked();
+    void on_pushButton_addCar_clicked();
+
+
+protected:
+    Ui::MainWindow *ui_main;
+
+    ListAll *lAll;
+    addCar *aCar;
+    addCustomer *aCustomer;
+
 };
 #endif // MAINWINDOW_H
